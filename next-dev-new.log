@@ -1,0 +1,14 @@
+
+> my-project@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://10.52.234.155:3000
+- Environments: .env.local
+✓ Ready in 921ms
+Creating turbopack project { dir: 'V:\\FaceAttend-main\\FaceAttend-main', testMode: true }
+
+ GET /student/dashboard?tab=analytics 200 in 895ms (next.js: 386ms, application-code: 509ms)
+ GET / 200 in 184ms (next.js: 93ms, application-code: 91ms)
+[?25h
